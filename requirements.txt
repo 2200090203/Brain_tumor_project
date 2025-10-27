@@ -1,4 +1,4 @@
-tflite-runtime==2.11.0
+tflite-runtime==2.14.0
 numpy==1.21.5
 pillow==9.2.0
 opencv-python-headless==4.6.0.66
